@@ -1,0 +1,1 @@
+cmd_/home/tapan/Desktop/cn/device_drivers_Kr/key/key_eg/key2.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/tapan/Desktop/cn/device_drivers_Kr/key/key_eg/key2.ko /home/tapan/Desktop/cn/device_drivers_Kr/key/key_eg/key2.o /home/tapan/Desktop/cn/device_drivers_Kr/key/key_eg/key2.mod.o ;  true
